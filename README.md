@@ -5,7 +5,7 @@ I've posted this solution because it is a good example of code that can be scale
 
 This is my work to solve the arcade challenge posted on codefights: https://codefights.com/arcade/code-arcade/loop-tunnel/hBw5BJiZ4LmXcy92u/solutions
 
-Description of task:
+Description of task: (take from the codefights page)
 Given integers n, l and r, find the number of ways to represent n as a sum of two integers A and B such that l ≤ A ≤ B ≤ r.
 
 Example
